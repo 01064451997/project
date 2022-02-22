@@ -1,0 +1,45 @@
+body{
+  background: url(../img/bacg.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.wrapper{
+  margin: 0 auto;
+  margin-top: 80px;
+  width: 800px;
+  background: #fff;
+  display: flex;
+  border-radius: 25px;
+  padding: 30px;
+}
+img{
+  margin-top: 10px;
+  width: 450px;
+}
+
+.picture td{
+  border: 1px solid blue;
+  color: blue;
+}
+.size{
+  color: blue;
+}
+.subtitle{
+  color: blue;
+}
+.price{
+  color: blue;
+  font-size: 30px;
+  margin: 0;
+}
+.text{
+  font-weight: 900;
+}
+.btn{
+  background: blue;
+  color: #fff;
+  padding: 16px;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+}
